@@ -1,0 +1,7 @@
+# Site settings
+title: NachosATL
+description: The 3rd most popular nachos blog in Metro Atlanta™
+keywords: Nachos
+author: bruab
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://nachosatl.github.io" # the base hostname & protocol for your site
