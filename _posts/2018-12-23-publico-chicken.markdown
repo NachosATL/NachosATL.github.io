@@ -1,10 +1,10 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+title:  "Publico"
+subtitle: "Cuban Nachos - Mountain Chicken"
+author: "Brian"
+avatar: "img/authors/brian.jpg"
+image: "img/publico-chicken-1.jpg"
+date:   2018-12-23
 ---
 
 ### Dolor sit amet?

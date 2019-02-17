@@ -1,10 +1,10 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+title:  "Rira"
+subtitle: "Irish Nachos"
+author: "Brian"
+avatar: "img/authors/brian.jpg"
+image: "img/rira-1.jpg"
+date:   2018-12-26
 ---
 
 ### Dolor sit amet?

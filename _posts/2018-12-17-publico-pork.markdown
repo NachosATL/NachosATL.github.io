@@ -1,10 +1,10 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+title:  "Publico"
+subtitle: "Cuban Nachos - Braised Pork"
+author: "Brian"
+avatar: "img/authors/brian.jpg"
+image: "img/publico-pork-1.jpg"
+date:   2018-12-17
 ---
 
 ### Dolor sit amet?
