@@ -9,7 +9,7 @@ date:   2018-12-23
 
 ### Pure bliss! Zesty chicken + pineapple = 😋 (8/10)
 
-Ok, so this is the second [Publico](https://www.publicotapandkitchenatl.com/) on the site. You're welcome.
+Ok, so this is the second [Publico](https://www.publicotapandkitchenatl.com/) review on the site. You're welcome.
 
 <img src="/img/publico-chicken-2.jpg" width="80%">
 
