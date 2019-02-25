@@ -51,7 +51,7 @@ var demo = (function (window) {
         var pattern = Trianglify({
             width: window.innerWidth,
             height: window.innerHeight,
-            cell_size: 90,
+            cell_size: 190,
             variance: 1,
             stroke_width: 1,
             //x_colors: 'random',
@@ -229,7 +229,7 @@ var demo = (function (window) {
      */
     var _onCardMove = function (track) {
 
-        var radius = track.width / 2;
+        var radius = track.width / 1.1;
 
         var center = {
             x: track.x,
